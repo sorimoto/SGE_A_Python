@@ -7,3 +7,4 @@ elif num1 == num2:
     print("Els números son iguals")
 else:
     print(f"El número {num2} es mes gran que {num1}")
+#comentari per a pujar arxiu
