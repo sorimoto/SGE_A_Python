@@ -25,4 +25,5 @@ Excercici 6
 ![Ex6](diagrames_flux/SGE_A3_Ex6.drawio.png)
 
 Excercici 7
+
 ![Ex7](diagrames_flux/SGE_A3_Ex7.drawio.png)
